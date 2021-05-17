@@ -1,0 +1,20 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.10.4",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
