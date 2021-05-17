@@ -1,6 +1,6 @@
 ## Usage
 
-- Git clone repo
+- Git clone https://github.com/danielkpodo/code-test.git
 
 ```Js
    npm install or yarn
